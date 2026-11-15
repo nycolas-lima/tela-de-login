@@ -4,9 +4,7 @@ Uma página de login desenvolvida com **HTML5 e CSS3**, com foco em estruturaç�
 
 ## 🖥️ Preview
 
-## 🖥️ Preview
-
-![Tela de Login](screenshots/preview.png)
+<img src="screenshots/preview.png" alt="Tela de Login">
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -26,6 +24,8 @@ Uma página de login desenvolvida com **HTML5 e CSS3**, com foco em estruturaç�
 
 ```text
 tela-de-login/
+├── screenshots/
+│   └── preview.png
 ├── index.html
 ├── style.css
 ├── README.md
